@@ -1,72 +1,42 @@
-function main() {
-        data.push(Math.floor(Math.random() * 100) + 1);
-function generateRandomData() {
-}
 
-
-    return data;
-        console.log("Random Number: " + item);
-    const data = generateRandomData();
-    const data = [];
-main();
-    }
-    });
-    for (let i = 0; i < 10; i++) {
-}
-    data.forEach(item => {
-    data = generate_random_data()
-import random
     main()
-def generate_random_data():
-
-
-
-    return data
-def main():
-if __name__ == "__main__":
-
-    data = [random.randint(1, 100) for _ in range(10)]
         print(f"Random Number: {item}")
     for item in data:
-    data = [random.randint(1, 100) for _ in range(10)]
-import random
-    for item in data:
 if __name__ == "__main__":
-    return data
+import random
 
-        print(f"Random Number: {item}")
-    data = generate_random_data()
-    main()
 def main():
 
+    data = generate_random_data()
+    return data
 def generate_random_data():
-function main() {
-    return data;
-function generateRandomData() {
-}
+    data = [random.randint(1, 100) for _ in range(10)]
 
         console.log("Random Number: " + item);
-    const data = [];
+    });
 
+
+    data.forEach(item => {
+        data.push(Math.floor(Math.random() * 100) + 1);
+function generateRandomData() {
+    for (let i = 0; i < 10; i++) {
+main();
+function main() {
+    const data = [];
+}
+    }
+    const data = generateRandomData();
+}
+    return data;            System.out.println("Random Number: " + item);
+public class RandomDataGenerator {
 
     }
-        data.push(Math.floor(Math.random() * 100) + 1);
+        int[] data = new int[10];
+            data[i] = (int) (Math.random() * 100) + 1;
+        for (int i = 0; i < 10; i++) {
+
+        for (int item : data) {
 }
-main();
-    });
-    for (let i = 0; i < 10; i++) {
-    data.forEach(item => {
-    const data = generateRandomData();
-import random
-    for item in data:
-        print(f"Random Number: {item}")
-    return data
-    data = generate_random_data()
-
-if __name__ == "__main__":
-    main()
-
-
-def main():
-def generate_random_data():
-    data = [random.randint(1, 100) for _ in range(10)]
+        }
+        }
+    public static void main(String[] args) {
