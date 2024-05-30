@@ -1,27 +1,39 @@
+    data = generate_random_data()
+
+    return data
     data = [random.randint(1, 100) for _ in range(10)]
+
+    main()
+
+    for item in data:
+if __name__ == "__main__":
+def main():
+def generate_random_data():
+import random
+        print(f"Random Number: {item}")
+
+    data = [random.randint(1, 100) for _ in range(10)]
+
+    main()
 def generate_random_data():
 
 import random
-
-if __name__ == "__main__":
-        print(f"Random Number: {item}")
     return data
     for item in data:
-def main():
-    main()
-    data = generate_random_data()
-
-
 if __name__ == "__main__":
-def main():
-    return data
 
+        print(f"Random Number: {item}")
     data = generate_random_data()
+def main():if __name__ == "__main__":
+    main()
+def generate_random_data():
 
+    return data
+    for item in data:
+import random
+def main():
         print(f"Random Number: {item}")
     data = [random.randint(1, 100) for _ in range(10)]
-import random
-    for item in data:
-    main()
 
-def generate_random_data():
+
+    data = generate_random_data()
